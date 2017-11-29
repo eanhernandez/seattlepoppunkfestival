@@ -1,1 +1,1 @@
-﻿<% response.sendRedirect("https://www.facebook.com/The-Seattle-Pop-Punk-Festival-159465531454825/"); %>
+﻿<% response.sendRedirect("https://www.facebook.com/TheSeattlePopPunkFestival/"); %>
